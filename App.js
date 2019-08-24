@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import {StyleSheet, View, Text} from 'react-native';
+import {StyleSheet, View} from 'react-native';
 import Header from './components/Header';
 import StartGameScreen from './screens/StartGameScreen';
 
