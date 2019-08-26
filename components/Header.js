@@ -13,15 +13,17 @@ const styles = StyleSheet.create({
     header: {
         width: '100%',
         height: 90,
-        paddingTop: 36,
+        paddingTop: 24,
+        paddingBottom: 20,
         backgroundColor: Colors.primary,
         alignItems: 'center',
         justifyContent: 'center',
     },
     headerTitle: {
-        color: 'black',
-        fontSize: 30,
+        color: 'white',
+        fontSize: 35,
         fontWeight: 'bold',
+        fontFamily: 'OpenSans-Bold',
     },
 });
 export default Header;
