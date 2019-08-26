@@ -7,6 +7,6 @@ export default StyleSheet.create({
     },
     title: {
         fontFamily: 'OpenSans-Bold',
-        fontSize: 17,
+        fontSize: 20,
     },
 });
